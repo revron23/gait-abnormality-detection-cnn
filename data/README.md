@@ -14,8 +14,7 @@ The dataset used in this project consists of Ground Reaction Force (GRF) measure
 Due to GitHub file size limitations, the dataset is not included directly in this repository.
 
 The dataset can be accessed here:
-- 📂 Google Drive: [ADD YOUR DRIVE LINK HERE]
-  *(Access available upon request for academic use)*
+- 📂 Google Drive: https://drive.google.com/file/d/1Ohn6NfIiAhykIUvu1CDAxsBA2uE0YHPZ/view?usp=sharing
 
 ### Note
 The dataset was used strictly for academic research and experimentation purposes.
