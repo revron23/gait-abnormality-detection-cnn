@@ -1,3 +1,3 @@
 ## Model Architecture
 
-This folder contains visual representations of the CNN architecture used in the study.
+This folder contains the code that we used to traind the models and code of all the models 
